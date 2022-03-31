@@ -3,9 +3,8 @@ Hi, my name is Tony. I am studying games development and computer science in Mel
 
 ## What are my interests? Glad you asked
 - Reading (lots, and often on very uncanny subjects)
-- Making games (I hope)
-- Studying
-- Video games
+- Playing and making games (I hope)
+- Studying, because I need to
 
 ## My goals for 2022 🏆🏞
 - Read 20 new books
