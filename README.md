@@ -1,10 +1,10 @@
-# Tony - a student and generally a nice guy.
+# Tony - a student, and generally a nice guy.
 Hi, my name is Tony. I currently reside in Melbourne, Australia, studying computer science and games development.
 
 ## What are my interests? Glad you asked
 - Reading (lots, and often on very uncanny subjects)
 - Playing and making games (I hope)
-- Studying, because I need to
+- Studying, because who doesn't love studying?
 
 ## My goals for 2022 🏆🏞
 - Read 20 new books
