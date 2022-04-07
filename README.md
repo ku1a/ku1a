@@ -1,5 +1,5 @@
 # Tony - a student and generally a nice guy.
-Hi, my name is Tony. I am studying games development and computer science in Melbourne Australia.
+Hi, my name is Tony. I currently reside in Melbourne, Australia, studying computer science and games development.
 
 ## What are my interests? Glad you asked
 - Reading (lots, and often on very uncanny subjects)
@@ -8,6 +8,7 @@ Hi, my name is Tony. I am studying games development and computer science in Mel
 
 ## My goals for 2022 🏆🏞
 - Read 20 new books
+- Become a math wizard
 - Get a placement for my career! Scary!
 - Expand my professional network
 
