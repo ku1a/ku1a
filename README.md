@@ -1,4 +1,4 @@
-# Tony - a student, and generally a nice guy.
+# Tony, a learning game developer.  
 G'day, my name is Tony. I currently reside in Melbourne, Australia, studying computer science and games development.
 
 ## What are my interests? Glad you asked
