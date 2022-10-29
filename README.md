@@ -4,7 +4,7 @@ G'day I'm Tony, a software engineer who plays and studies games as a side gig.
 ## What are my interests? Glad you asked
 - Reading (lots, and often on very uncanny subjects)
 - Chatting with people about anything (I hope)
-- Losing myself in a good video game
+- gaming 🎮🕹
 
 
 ## My goals for 2022 
