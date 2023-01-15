@@ -12,7 +12,6 @@ G'day I'm Tony, a software engineer who plays and studies games as a side gig.
 - Get personal website up and running
 - Go full-time as a software engineer
 - Get AWS Certified
-- Dopamine Detox
 
 ## My socials 
 **LinkedIn:** www.linkedin.com/in/tony-lam-6b2b40201
