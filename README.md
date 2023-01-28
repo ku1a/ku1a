@@ -1,9 +1,9 @@
 # About me
-G'day I'm Tony, a software engineer who plays and studies games as a side gig.
+G'day I'm Tony, a budding software engineer who plays and studies games as a side gig.
 
 ## What are my interests? Glad you asked
 - Reading (lots, and often on very uncanny subjects)
-- Chatting with people about anything (I hope)
+- Having deep discussions with people about anything (I hope)
 - gaming 🎮🕹
 
 
