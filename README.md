@@ -1,10 +1,10 @@
 # About me
-G'day I'm Tony, a budding software engineer who plays and studies games as a side gig.
+G'day I'm Tony, software engineer and games student.
 
-## What are my interests? Glad you asked
-- Reading (lots, and often on very uncanny subjects)
+## My Interests for those that care
+- Reading
 - Having deep discussions with people about anything (I hope)
-- gaming 🎮🕹
+- gaming 🎮🕹 pew pew
 
 
 ## My goals for 2023
