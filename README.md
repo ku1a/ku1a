@@ -12,10 +12,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-### Stats
-[![ku1a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ku1a)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ku1a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### My socials 
 **LinkedIn:** www.linkedin.com/in/tony-lam-6b2b40201
 **Itch.io:** https://ku1a.itch.io/
